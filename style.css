@@ -1,0 +1,84 @@
+
+
+body{
+    background-color: #F4CE14;
+}
+
+.container{
+    background-color: #fff6e7;
+    border: 3px solid;
+    border-radius: 20px;
+}
+
+#logo{
+    width: 100px;
+    height: 92px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.nav-item{
+    color: #45474B;
+    border-radius: 5px;
+}
+
+.nav-pills .nav-item .nav-link {
+    color: #45474B;
+}
+
+.nav-pills .nav-item .nav-link:hover{
+    background-color: #495E57;
+    color: #fff6e7;
+}
+
+h1{
+    color: #45474B;
+}
+
+p{
+    color: #495E57;
+}
+
+.lead{
+    font-weight: 600;
+}
+
+.btn{
+    background-color: #FF7F3E;
+    border: 5px solid black;
+    border-radius: 30px;
+    font-weight: 600;
+}
+
+.btn:hover{
+    background-color: #8e4a29;
+    border: 5px solid black;
+    
+}
+
+ #Profile{
+    border-radius: 30px;
+    border: 5px solid black; 
+ }
+
+.img-fluid{
+    height:500px;
+    max-width: 100%;
+}
+
+.contact-me{
+    text-align: center;
+}
+
+.contact-me h2 {
+    color: #45474B;
+}
+
+.contact-me h3{
+    color: #45474B;
+}
+
+#Projects h2{
+    color: #45474B;
+}
+
